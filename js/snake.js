@@ -1,3 +1,7 @@
+/*
+ * Snake game in JavaScript
+* Created by: Orangecat847
+ */
 (function(){
   const board = document.getElementById('game-board');
   const scoreSpan = document.getElementById('scoreDisplay');
