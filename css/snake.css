@@ -276,7 +276,11 @@ body {
   }
 }
 
+<<<<<<< HEAD
 
+=======
+/* 极小屏优化 */
+>>>>>>> d9ea78c9973fe2ba7fbde74c0e324cf8e688f08d
 @media (max-width: 420px) {
   .glass-panel { padding: 10px 10px 14px 10px; border-radius: 24px; }
   #game-wrapper {

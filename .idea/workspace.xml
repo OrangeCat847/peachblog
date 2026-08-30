@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e52e681-8e12-4145-a606-f26db1663f9b" name="Changes" comment="New: Snakegame" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="49" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/games/SnakeGame.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000001084" />
+      <entry key="MS500" value="1.0026735029977696" />
+      <entry key="S2" value="1.3296967306725418" />
+      <entry key="S5" value="1.9562629600587136" />
+      <entry key="S10" value="2.37896121240995" />
+      <entry key="S30" value="2.7657303656768817" />
+      <entry key="S60" value="2.879129140880334" />
+      <entry key="M2" value="2.9599125139732854" />
+      <entry key="M5" value="4.8407561770353436" />
+      <entry key="M10" value="14.894790802243971" />
+      <entry key="M15" value="27.851561809637445" />
+      <entry key="M30" value="61.36148484183415" />
+      <entry key="H1" value="98.08893785527673" />
+      <entry key="H2" value="126.65544255342763" />
+      <entry key="H4" value="144.72368017605692" />
+      <entry key="D1" value="162.20489575760632" />
+      <entry key="W1" value="165.451365030603" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.411442895790418E-217" />
+      <entry key="S5" value="2.2562257579747427E-87" />
+      <entry key="S10" value="4.903939241504398E-44" />
+      <entry key="S30" value="4.851025228353386E-15" />
+      <entry key="S60" value="1.0255873109036917E-7" />
+      <entry key="M2" value="5.210613547342784E-4" />
+      <entry key="M5" value="0.0928186700812163" />
+      <entry key="M10" value="0.5598661977810563" />
+      <entry key="M15" value="1.0865249820322374" />
+      <entry key="M30" value="2.32947783793737" />
+      <entry key="H1" value="3.632929154835688" />
+      <entry key="H2" value="4.6325733080676645" />
+      <entry key="H4" value="5.261552172839121" />
+      <entry key="D1" value="5.868428785345388" />
+      <entry key="W1" value="5.980983176676838" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="8.109654637587991E-5" />
+      <entry key="MS500" value="0.15464279662875574" />
+      <entry key="S2" value="0.953440200939788" />
+      <entry key="S5" value="1.783737263591174" />
+      <entry key="S10" value="2.2884601529859525" />
+      <entry key="S30" value="2.7345560763824186" />
+      <entry key="S60" value="2.863411128055579" />
+      <entry key="M2" value="2.952468920282898" />
+      <entry key="M5" value="4.9278584051916585" />
+      <entry key="M10" value="15.444791905602274" />
+      <entry key="M15" value="28.925307130021253" />
+      <entry key="M30" value="63.67622576806467" />
+      <entry key="H1" value="101.7097702651225" />
+      <entry key="H2" value="131.28009763714618" />
+      <entry key="H4" value="149.9806773007252" />
+      <entry key="D1" value="168.07246884872515" />
+      <entry key="W1" value="171.4322233990035" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HDlClBSLIxijK2YI771tolw3Kq" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.SnakeGame.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.about.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Administrator/Desktop/MyFiles/Packages/HTML/peachblog/peachblog/games&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.gitlab.GitLabSettingsConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\MyFiles\Packages\HTML\peachblog\peachblog\games" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="snake.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="snake.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e52e681-8e12-4145-a606-f26db1663f9b" name="Changes" comment="" />
+      <created>1785410395317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785410395317</updated>
+      <workItem from="1785410400752" duration="1853000" />
+      <workItem from="1785506392436" duration="4128000" />
+      <workItem from="1785578122753" duration="672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New: Snakegame" />
+    <option name="LAST_COMMIT_MESSAGE" value="New: Snakegame" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
