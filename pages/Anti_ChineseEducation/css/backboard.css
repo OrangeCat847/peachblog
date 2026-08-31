@@ -1,0 +1,86 @@
+:root {
+  --liberty-blue: #3b82f6;
+  --liberty-blue-dark: #1e40af;
+  --liberty-sky: #e0f2fe;
+  --liberty-text: #1f2937;
+  --liberty-radius: 12px;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Inter", system-ui, sans-serif;
+  background: linear-gradient(
+    135deg,
+    var(--liberty-sky),
+    #ffffff
+  );
+  color: var(--liberty-text);
+  min-height: 100vh;
+}
+
+.liberty-banner {
+  background: linear-gradient(
+    90deg,
+    var(--liberty-blue),
+    var(--liberty-blue-dark)
+  );
+  color: white;
+  padding: 24px;
+  text-align: center;
+  font-size: 1.4rem;
+  letter-spacing: 1px;
+  box-shadow: 0 4px 10px rgba(59, 130, 246, 0.3);
+}
+
+.liberty-container {
+  max-width: 960px;
+  margin: 40px auto;
+  padding: 32px;
+  background: rgba(255, 255, 255, 0.85);
+  border-radius: var(--liberty-radius);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.05);
+}
+.liberty-button {
+  background: var(--liberty-blue);
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: var(--liberty-radius);
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.liberty-button:hover {
+  background: var(--liberty-blue-dark);
+  transform: translateY(-2px);
+}
+.liberty-divider {
+  height: 1px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    var(--liberty-blue),
+    transparent
+  );
+  margin: 32px 0;
+}
+.center-title {
+  text-align: center;
+  color: #1e40af;
+  letter-spacing: 2px;
+  margin-top: 120px;
+}
+.center-text {
+  text-align: center;
+  color: #1f2937;
+  letter-spacing: 1px;
+  margin-top: 24px;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #1e40af;
+}
